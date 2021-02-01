@@ -7,6 +7,10 @@
 # Requirements
 - [Tensorflow 1.15](http://www.tensorflow.org)
 
+```bash
+$ pip3 install tensorflow==1.15
+```
+
 # Basic Usage
 To train with default parameters on the Yes lyrics corpus, run:
 ```bash
