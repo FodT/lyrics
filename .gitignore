@@ -1,1 +1,5 @@
 *.pyc
+corpora/*/data.npy
+corpora/*/html/
+corpora/*/txt/
+corpora/*/vocab.pkl
